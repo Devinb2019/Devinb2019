@@ -24,6 +24,9 @@ Agile Practices: Documentation from sprint reviews and retrospectives, demonstra
 I'm currently searching for an internship to apply these skills in a real-world setting. I’m eager to:
 
 Put my academic experience into practice, working on impactful projects.
+
 Learn from experienced professionals and gain insights into the tech industry.
+
 Contribute to a collaborative team and bring value through my coding and problem-solving abilities.
+
 Feel free to explore my repositories and reach out if you'd like to chat or have potential opportunities in mind!
