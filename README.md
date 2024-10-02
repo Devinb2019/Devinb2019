@@ -9,10 +9,15 @@ I'm in the process of adding more coursework to this profile, including projects
 💻 What you'll find here
 
 C++ Projects: Code that emphasizes algorithmic problem-solving and efficient programming techniques.
+
 Java Work: A variety of Java-based assignments, with a focus on object-oriented programming and system design.
+
 Python Projects: Scripts and programs that showcase data handling and basic AI techniques.
+
 Software Security: Coursework that emphasizes best practices in building secure applications.
+
 Agile Practices: Documentation from sprint reviews and retrospectives, demonstrating my familiarity with agile workflows and continuous improvement in software development.
+
 
 🚀 Moving Forward
 
